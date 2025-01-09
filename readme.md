@@ -1,5 +1,3 @@
-# RNA-seq Analysis: Bulk vs. Single-Cell RNA-seq
-
 ## Overview
 RNA-seq is a genomic method for detecting and analyzing messenger RNA in biological samples. Bulk RNA-seq measures average gene expression across a population, while scRNA-seq studies individual cells, uncovering rare populations and regulatory relationships.
 
